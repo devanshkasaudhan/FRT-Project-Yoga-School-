@@ -3,16 +3,28 @@
 
 In this project, we have deployed a Yoga School Website on Azure Portal using GitHub as our version control system. We have also added a GitHub page to the project. This documentation will guide you through the process of deploying the website on Azure and adding the GitHub page.
 
-## Project Overview
-
-The goal of this project is to deploy a Yoga School Website on Azure Portal using GitHub as our version control system. Azure is a cloud computing platform that allows us to host and deploy our website on the internet. GitHub is a web-based platform for version control and collaboration that enables developers to store and manage their code repositories. We will use GitHub to store and manage the code for our website and then deploy it on Azure.
-
 ## Deployment
 
 This project is deployed on github pages and azure static web app
 
 - [Github pages Deployment](https://devanshkasaudhan.github.io/FRT-Project-Yoga-School-/)
 - [Azure Static web App Deployment](https://polite-pond-01ae39b10.3.azurestaticapps.net/)
+
+## Primary Azure Technology Used
+- Azure Static Web App
+- Azure Bot Service
+- Language Cognitive Service
+
+## Other Technologies
+- HTML
+- CSS
+- Bootstrap 
+- Javascript
+
+## Project Overview
+
+The goal of this project is to deploy a Yoga School Website on Azure Portal using GitHub as our version control system. Azure is a cloud computing platform that allows us to host and deploy our website on the internet. GitHub is a web-based platform for version control and collaboration that enables developers to store and manage their code repositories. We will use GitHub to store and manage the code for our website and then deploy it on Azure.
+
 
 ## Prerequisites
 
